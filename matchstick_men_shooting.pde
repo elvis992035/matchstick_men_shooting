@@ -1,3 +1,5 @@
+///This is the main class of the game, I think this can demonstrate how I understand the language and the logic of game design
+
 import ddf.minim.*;
 
 ArrayList <Terrain> m_Terrain = new ArrayList <Terrain> ();
